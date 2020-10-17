@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Relax-weather/static/css/main.f846792d.chunk.css",
+    "main.css": "/Relax-weather/static/css/main.d0d92843.chunk.css",
     "main.js": "/Relax-weather/static/js/main.9fb634b4.chunk.js",
     "main.js.map": "/Relax-weather/static/js/main.9fb634b4.chunk.js.map",
     "runtime-main.js": "/Relax-weather/static/js/runtime-main.99b7fe85.js",
@@ -8,16 +8,16 @@
     "static/js/2.a05be969.chunk.js": "/Relax-weather/static/js/2.a05be969.chunk.js",
     "static/js/2.a05be969.chunk.js.map": "/Relax-weather/static/js/2.a05be969.chunk.js.map",
     "index.html": "/Relax-weather/index.html",
-    "precache-manifest.09c8e29bd3e0bf061d6607377e3ce2ca.js": "/Relax-weather/precache-manifest.09c8e29bd3e0bf061d6607377e3ce2ca.js",
+    "precache-manifest.797d32686d5e3bfff1351072648a0a23.js": "/Relax-weather/precache-manifest.797d32686d5e3bfff1351072648a0a23.js",
     "service-worker.js": "/Relax-weather/service-worker.js",
-    "static/css/main.f846792d.chunk.css.map": "/Relax-weather/static/css/main.f846792d.chunk.css.map",
+    "static/css/main.d0d92843.chunk.css.map": "/Relax-weather/static/css/main.d0d92843.chunk.css.map",
     "static/js/2.a05be969.chunk.js.LICENSE.txt": "/Relax-weather/static/js/2.a05be969.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Relax-weather/static/media/warm-bg.635ed87d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.99b7fe85.js",
     "static/js/2.a05be969.chunk.js",
-    "static/css/main.f846792d.chunk.css",
+    "static/css/main.d0d92843.chunk.css",
     "static/js/main.9fb634b4.chunk.js"
   ]
 }

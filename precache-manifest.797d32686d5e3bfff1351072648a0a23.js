@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1a17f267204eab392515b56ae65efba",
+    "revision": "d2c2c3325292cc9558453742ceabf088",
     "url": "/Relax-weather/index.html"
   },
   {
-    "revision": "4fc501be9123caba1af2",
-    "url": "/Relax-weather/static/css/main.f846792d.chunk.css"
+    "revision": "34499b670b4bc86e2f8c",
+    "url": "/Relax-weather/static/css/main.d0d92843.chunk.css"
   },
   {
     "revision": "dbaf48c363dac5e4ff1b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Relax-weather/static/js/2.a05be969.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4fc501be9123caba1af2",
+    "revision": "34499b670b4bc86e2f8c",
     "url": "/Relax-weather/static/js/main.9fb634b4.chunk.js"
   },
   {
