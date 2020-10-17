@@ -6,6 +6,10 @@
 
 body {
   font-family: 'montseratt', sans-serif;
+  max-width: 400px;
+  max-height: 740px;
+  margin: 0 auto;
+  background: #000;
 }
 
 .app {
